@@ -1,0 +1,11 @@
+C:/Users/yurikusik/source/repos/AirlineProject/AirlineProject/obj/Debug/AirlineProject.csprojAssemblyReference.cache
+C:/Users/yurikusik/source/repos/AirlineProject/AirlineProject/obj/Debug/AirlineProject.csproj.CoreCompileInputs.cache
+C:/Users/yurikusik/source/repos/AirlineProject/AirlineProject/bin/Debug/AirlineProject.exe.config
+C:/Users/yurikusik/source/repos/AirlineProject/AirlineProject/bin/Debug/AirlineProject.exe
+C:/Users/yurikusik/source/repos/AirlineProject/AirlineProject/bin/Debug/AirlineProject.pdb
+C:/Users/yurikusik/source/repos/AirlineProject/AirlineProject/obj/Debug/AirlineProject.exe
+C:/Users/yurikusik/source/repos/AirlineProject/AirlineProject/obj/Debug/AirlineProject.pdb
+/Volumes/YKUSIK_USB/AirlineProject/AirlineProject/obj/Debug/AirlineProject.csprojAssemblyReference.cache
+/Volumes/YKUSIK_USB/AirlineProject/AirlineProject/obj/Debug/AirlineProject.csproj.CoreCompileInputs.cache
+/Volumes/YKUSIK_USB/AirlineProject/AirlineProject/obj/Debug/AirlineProject.exe
+/Volumes/YKUSIK_USB/AirlineProject/AirlineProject/obj/Debug/AirlineProject.pdb

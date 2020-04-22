@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0C787C1C-8EC9-495B-90AB-A05D52F935C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AirlineProject/AirlineCoordinator.cs">
+    <Files>
+      <File FileName="AirlineProject/AirlineCoordinator.cs" Line="10" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AirlineProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
